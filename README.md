@@ -6,6 +6,8 @@
 
 ## About Still
 
+<img width="1215" height="638" alt="SCR-20251108-gyzm2" src="https://github.com/user-attachments/assets/25322ed3-44c8-4ee7-9d36-12664aafd46f" />
+
 Still is a minimalist, privacy-focused iOS client for Audiobookshelf. Through its minimalist design and fluid experience, it shields you from distractions, guarding a quiet, focused space for listening.
 
 ### Core Features
