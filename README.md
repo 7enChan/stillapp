@@ -26,11 +26,6 @@ Still is a minimalist, privacy-focused iOS client for Audiobookshelf. Through it
 
 [Create a new issue](https://github.com/YOUR_USERNAME/Still/issues/new/choose) and choose "Feature Request" template.
 
-## Contact
-
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/Still/issues)
-- **Email**: iam@netineti.space
-
 ---
 
 Still is not affiliated with Audiobookshelf.
