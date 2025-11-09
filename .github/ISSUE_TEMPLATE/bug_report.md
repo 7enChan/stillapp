@@ -7,13 +7,6 @@ assignees: ''
 
 ---
 
----
-name: Bug Report
-about: Report a bug or issue with Still
-title: '[Bug]: '
-labels: bug, triage
----
-
 **What happened?**
 <!-- Describe the bug and what you expected to happen -->
 
