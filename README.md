@@ -18,13 +18,13 @@ Still is a minimalist, privacy-focused iOS client for Audiobookshelf. Through it
 
 ## Report a Bug
 
-1. [Create a new issue](https://github.com/YOUR_USERNAME/Still/issues/new/choose)
+1. [Create a new issue](https://github.com/7enchan/stillapp/issues/new/choose)
 2. Choose "Bug Report" template
 3. For login/playback issues: Tap "Export Logs" in the app and paste the content
 
 ## Request a Feature
 
-[Create a new issue](https://github.com/YOUR_USERNAME/Still/issues/new/choose) and choose "Feature Request" template.
+[Create a new issue](https://github.com/7enchan/stillapp/issues/new/choose) and choose "Feature Request" template.
 
 ---
 
