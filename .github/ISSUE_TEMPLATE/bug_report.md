@@ -17,7 +17,14 @@ assignees: ''
 3.
 
 **Diagnostic Logs (Optional)**
-<!-- For login/playback issues, tap "Export Logs" in the app and paste here -->
+<!-- 
+To export logs:
+1. Go to Settings → About
+2. Tap the app logo 5 times to reveal "Export Diagnostic Logs"
+3. Share the generated file and attach it here
+
+For login issues: The "Export Logs" button appears directly below the error message.
+-->
 
 
 **App Version:**
@@ -25,4 +32,4 @@ assignees: ''
 
 
 **iOS Version:**
-<!-- e.g., 18.5 -->
+<!-- e.g., 26.2 -->
