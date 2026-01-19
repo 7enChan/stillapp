@@ -37,5 +37,6 @@ The app is not designed to be a "Swiss Army Knife," but a pure companion for lis
 
 ---
 
-Still is not affiliated with Audiobookshelf.
+**Still** is an independent client and is not affiliated with the official Audiobookshelf project. 
+However, it is built with deep respect for the [Audiobookshelf](https://github.com/advplyr/audiobookshelf) community and their incredible work.
 
