@@ -14,9 +14,11 @@ Still is a minimalist, privacy-focused iOS client for Audiobookshelf. Through it
 
 Still follows the principle of Occam’s Razor: entities should not be multiplied without necessity.
 
-The app is not designed to be a "Swiss Army Knife," but a pure companion for listeners. The goal is to remain invisible. Therefore, Still exercises deliberate restraint in adding new features. If a feature adds complexity without enhancing the core listening experience, it will not be included.
+It is designed for focused, immersive listening — the kind of experience where you slow down, settle in, and give a book your full attention.
 
-### Core Features
+It is not designed to be a "Swiss Army Knife," but a quiet companion for listeners. The goal is to remain invisible. Therefore, Still exercises deliberate restraint in adding new features. If a feature adds complexity without enhancing the core listening experience, it will not be included.
+
+## Core Features
 
 - **Connect to Your Private Library**: Securely connect to your Audiobookshelf server. Your data and privacy remain entirely in your control.
 - **A Pure Listening Experience**: Minimalist design that puts listening first. Core features are always within reach.
