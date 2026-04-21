@@ -1,8 +1,8 @@
 # Still - Bug Reports & Feedback
 
-## About Still
-
 <img width="1446" height="606" alt="SCR-20260421-nili" src="https://github.com/user-attachments/assets/b8d1a9f1-4dc8-4bb2-bafe-5da915cf7ec7" />
+
+## About Still
 
 Still is a simple, clean, and native iOS client for [Audiobookshelf](https://www.audiobookshelf.org/). Through its minimalist design and fluid experience, it shields you from distractions, guarding a quiet, focused space for listening.
 
