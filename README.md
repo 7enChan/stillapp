@@ -1,14 +1,11 @@
 # Still - Bug Reports & Feedback
 
-> Inspired by the idea that "the greatest sound is silent." Still is a sanctuary for [Audiobookshelf](https://www.audiobookshelf.org/) users.
-
-**Note**: This repository is for bug reports and feature requests. Source code is not public.
-
 ## About Still
 
-<img width="1215" height="638" alt="SCR-20251108-gyzm2" src="https://github.com/user-attachments/assets/25322ed3-44c8-4ee7-9d36-12664aafd46f" />
+<img width="1446" height="606" alt="SCR-20260421-nili" src="https://github.com/user-attachments/assets/b8d1a9f1-4dc8-4bb2-bafe-5da915cf7ec7" />
 
-Still is a minimalist, privacy-focused iOS client for Audiobookshelf. Through its minimalist design and fluid experience, it shields you from distractions, guarding a quiet, focused space for listening.
+Still is a simple, clean, and native iOS client for [Audiobookshelf](https://www.audiobookshelf.org/). Through its minimalist design and fluid experience, it shields you from distractions, guarding a quiet, focused space for listening.
+
 
 ## Design Philosophy
 
@@ -18,13 +15,29 @@ It is designed for focused, immersive listening — the kind of experience where
 
 It is not designed to be a "Swiss Army Knife," but a quiet companion for listeners. The goal is to remain invisible. Therefore, Still exercises deliberate restraint in adding new features. If a feature adds complexity without enhancing the core listening experience, it will not be included.
 
+
 ## Core Features
 
-- **Connect to Your Private Library**: Securely connect to your Audiobookshelf server. Your data and privacy remain entirely in your control.
-- **A Pure Listening Experience**: Minimalist design that puts listening first. Core features are always within reach.
-- **Offline Downloads for Listening Anywhere**: Download your favorite titles with a single tap. Enjoy uninterrupted listening on your commute or during a flight.
-- **Seamless Cross-Device Sync**: Your listening progress is automatically synced between your iPhone and iPad.
-- **More Features**: Supports CarPlay, Home Screen widgets, OIDC SSO and custom headers.
+**Audiobooks & Podcasts**
+• Immersive, minimalist playback interface
+• Real-time cross-device listening progress sync
+• Download locally for offline listening anytime, anywhere
+• Up Next queue, continuous uninterrupted playback
+• Sleep timer, playback speed, and volume boost all at your fingertips
+• Auto-skip intro and outro to save you time
+• Home Screen widgets and CarPlay support
+
+**E-Books**
+• Supports EPUB, PDF, and CBZ formats
+• Custom typography (font family, size, and spacing)
+• Switch freely between multiple reading themes
+• Real-time cross-device reading progress sync
+
+**More**
+• Customize home screen sections
+• OIDC Single Sign-On (SSO)
+• Custom Header support
+• Multiple servers and fast account switching
 
 
 ## Report a Bug
@@ -38,6 +51,9 @@ It is not designed to be a "Swiss Army Knife," but a quiet companion for listene
 [Create a new issue](https://github.com/7enchan/stillapp/issues/new/choose) and choose "Feature Request" template.
 
 ---
+
+
+**Note**: This repository is for bug reports and feature requests. Source code is not public.
 
 **Still** is an independent client and is not affiliated with the official Audiobookshelf project. 
 However, it is built with deep respect for the [Audiobookshelf](https://github.com/advplyr/audiobookshelf) community and their incredible work.
