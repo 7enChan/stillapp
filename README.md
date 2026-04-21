@@ -44,17 +44,18 @@ It is not designed to be a "Swiss Army Knife," but a quiet companion for listene
 
 1. [Create a new issue](https://github.com/7enchan/stillapp/issues/new/choose)
 2. Choose "Bug Report" template
-3. For login/playback issues: Tap "Export Logs" in the app and paste the content
+3. Tap "Export Logs" in the app and paste the content.
 
 ## Request a Feature
 
-[Create a new issue](https://github.com/7enchan/stillapp/issues/new/choose) and choose "Feature Request" template.
+1. [Create a new issue](https://github.com/7enchan/stillapp/issues/new/choose)
+2. Choose "Feature Request" template.
 
 ---
 
 
-**Note**: This repository is for bug reports and feature requests. Source code is not public.
+**Note**: 
 
-**Still** is an independent client and is not affiliated with the official Audiobookshelf project. 
+This repository is for bug reports and feature requests. Source code is not public.
+Still is an independent client and is not affiliated with the official Audiobookshelf project. 
 However, it is built with deep respect for the [Audiobookshelf](https://github.com/advplyr/audiobookshelf) community and their incredible work.
-
