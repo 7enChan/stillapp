@@ -19,25 +19,28 @@ It is not designed to be a "Swiss Army Knife," but a quiet companion for listene
 ## Core Features
 
 **Audiobooks & Podcasts**
-• Immersive, minimalist playback interface
-• Real-time cross-device listening progress sync
-• Download locally for offline listening anytime, anywhere
-• Up Next queue, continuous uninterrupted playback
-• Sleep timer, playback speed, and volume boost all at your fingertips
-• Auto-skip intro and outro to save you time
-• Home Screen widgets and CarPlay support
+
+- Immersive, minimalist playback interface
+- Real-time cross-device listening progress sync
+- Download locally for offline listening anytime, anywhere
+- Up Next queue, continuous uninterrupted playback
+- Sleep timer, playback speed, and volume boost all at your fingertips
+- Auto-skip intro and outro to save you time
+- Home Screen widgets and CarPlay support
 
 **E-Books**
-• Supports EPUB, PDF, and CBZ formats
-• Custom typography (font family, size, and spacing)
-• Switch freely between multiple reading themes
-• Real-time cross-device reading progress sync
+
+- Supports EPUB, PDF, and CBZ formats
+- Custom typography (font family, size, and spacing)
+- Switch freely between multiple reading themes
+- Real-time cross-device reading progress sync
 
 **More**
-• Customize home screen sections
-• OIDC Single Sign-On (SSO)
-• Custom Header support
-• Multiple servers and fast account switching
+
+- Customize home screen sections
+- OIDC Single Sign-On (SSO)
+- Custom Header support
+- Multiple servers and fast account switching
 
 
 ## Report a Bug
