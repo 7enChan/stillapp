@@ -1,6 +1,7 @@
 # Still - Bug Reports & Feedback
 
-<img width="1446" height="606" alt="SCR-20260421-nili" src="https://github.com/user-attachments/assets/b8d1a9f1-4dc8-4bb2-bafe-5da915cf7ec7" />
+<img width="1265" height="1233" alt="SCR-20260424-sjmq" src="https://github.com/user-attachments/assets/9595ccd6-9771-4909-a4a4-754ce2461529" />
+
 
 ## About Still
 
