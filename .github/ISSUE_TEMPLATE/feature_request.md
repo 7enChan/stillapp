@@ -1,15 +1,17 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: "[Feature request] "
 labels: ''
 assignees: ''
 
 ---
 
 **Feature Description**
-<!-- Describe the feature you'd like and why it would be useful -->
+<!-- Describe the use case, the problem or friction you ran into -->
 
-I would like to...
+When I...
 
-This would help because...
+The problem is...
+
+One possible solution could be...
